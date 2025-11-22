@@ -1,5 +1,5 @@
 {
-  "name": "@oven/bun-react-effect-example",
+  "name": "bun-react-effect-example",
   "version": "0.1.0",
   "description": "Bun example demonstrating integration with React and Effect",
   "private": true,
