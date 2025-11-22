@@ -1,5 +1,7 @@
 # Bun + React + Effect Example
 
+![Bun + React + Effect Example - Full-stack application showcasing end-to-end type safety with Effect TypeScript, React 19, and Bun runtime](src/promo.png)
+
 Full-stack application demonstrating **END-TO-END TYPE SAFETY** with Effect TypeScript, React, and Bun.
 
 > [!IMPORTANT]
