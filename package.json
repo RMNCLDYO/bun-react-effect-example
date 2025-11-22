@@ -4,6 +4,27 @@
   "description": "Bun example demonstrating integration with React and Effect",
   "private": true,
   "type": "module",
+  "keywords": [
+    "bun",
+    "react",
+    "effect",
+    "typescript",
+    "type-safety",
+    "schema-validation",
+    "effect-ts",
+    "react19",
+    "tailwindcss",
+    "shadcn-ui",
+    "end-to-end-type-safety"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RMNCLDYO/bun-react-effect-example.git"
+  },
+  "homepage": "https://github.com/RMNCLDYO/bun-react-effect-example#readme",
+  "bugs": {
+    "url": "https://github.com/RMNCLDYO/bun-react-effect-example/issues"
+  },
   "scripts": {
     "dev": "bun --hot src/index.ts",
     "start": "NODE_ENV=production bun src/index.ts",
@@ -18,7 +39,7 @@
     "bun-plugin-tailwind": "^0.1.2",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
-    "effect": "^3.19.4",
+    "effect": "^3.19.6",
     "lucide-react": "^0.545.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
