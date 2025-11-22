@@ -53,13 +53,6 @@ graph LR
     E -->|JSON Response| A
     F -->|catchTag| G[Error Response]
     G -->|JSON Response| A
-
-    style A fill:#61dafb
-    style B fill:#fbf0df
-    style C fill:#3178c6
-    style E fill:#4ade80
-    style F fill:#f87171
-    style G fill:#fbbf24
 ```
 
 ## Type Safety
